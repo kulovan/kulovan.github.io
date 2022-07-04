@@ -1,5 +1,3 @@
-## How did I become a Software developer from a chemist?
-
 In 2015 I graduated in chemical engineering. During my 2 years of master's thesis, I joined a research group where we
 investigated synthetic pathways for natural compound synthesis. I gained various knowledge including total synthesis,
 and chemical computational methods to determine protein structure and molecular binding to proteins. I do not want to
